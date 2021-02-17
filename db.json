@@ -7,6 +7,6 @@
   "authors": [
     { "id": 111, "name": "JK Rowling" },
     { "id": 222, "name": "Arthur Conan Doyle" },
-    { "id": 333, "name": "Paulo Coelho" },
-  ],
+    { "id": 333, "name": "Paulo Coelho" }
+  ]
 }
